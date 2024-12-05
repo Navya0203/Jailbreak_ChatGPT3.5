@@ -21,6 +21,7 @@ This folder contains all the scripts and utilities required to implement and eva
 - **`LICENSE`**: Licensing information for this repository.
 
 ### **Output**
-This folder contains csv files with results for each subpart asked int eh question 
+This folder contains csv files with results for each subpart asked in the question.
+
 JSON files are stored in a shared Google Drive folder:
 [Google Drive: Output JSON Files](https://drive.google.com/drive/folders/1Igpp3dTSPpMTACdFn4wa9VJ9EWdUUH9Y?usp=share_link)
